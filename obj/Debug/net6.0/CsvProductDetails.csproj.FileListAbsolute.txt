@@ -1,0 +1,15 @@
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.csproj.AssemblyReference.cache
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.AssemblyInfoInputs.cache
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.AssemblyInfo.cs
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.csproj.CoreCompileInputs.cache
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\bin\Debug\net6.0\CsvProductDetails.exe
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\bin\Debug\net6.0\CsvProductDetails.deps.json
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\bin\Debug\net6.0\CsvProductDetails.runtimeconfig.json
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\bin\Debug\net6.0\CsvProductDetails.dll
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\bin\Debug\net6.0\CsvProductDetails.pdb
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.dll
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\refint\CsvProductDetails.dll
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.pdb
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\CsvProductDetails.genruntimeconfig.cache
+C:\Users\Ritika Jaiswal\source\repos\CsvProductDetails\CsvProductDetails\obj\Debug\net6.0\ref\CsvProductDetails.dll
